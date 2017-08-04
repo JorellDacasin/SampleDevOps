@@ -77,14 +77,14 @@
 		</h3>
 	
 		<div id="description">
-			This photo is another one of Lauren's favorites!  Her husband took these photos of the Sydney Opera House in 2011.
+			This photo is another one of Lauren's favorites!  HAHAHAHAHAAH Her husband took these photos of the Sydney Opera House in 2011.
 		</div>
 		
 		<h3>
 			Price: 
 		</h3>
 		
-		<div id="price">120.00</div>
+		<div id="price">13000.00</div>
 
   
 
